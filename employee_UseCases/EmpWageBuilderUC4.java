@@ -1,3 +1,6 @@
+// Solving using Case Statement
+// Calculating Employee Wage Using Switch
+
 package employee_UseCases;
 
 public class EmpWageBuilderUC4 {

@@ -1,3 +1,6 @@
+//Add Part time Employee & Wage
+//Add Part time Employee
+
 package employee_UseCases;
 
 public class EmpWageBuilderUC3 {

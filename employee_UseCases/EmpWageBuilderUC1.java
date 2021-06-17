@@ -1,3 +1,6 @@
+//Check Employee is Present or Absent
+//Check Employee Presence UC 1
+
 package employee_UseCases;
 
 public class EmpWageBuilderUC1 {

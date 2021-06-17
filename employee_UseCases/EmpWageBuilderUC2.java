@@ -1,3 +1,6 @@
+//Calculate Daily Employee Wage
+//Calculating Employee Wage UC 2
+
 package employee_UseCases;
 
 public class EmpWageBuilderUC2 {

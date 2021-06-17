@@ -1,3 +1,6 @@
+//Calculating Wages for a Month assuming 20 Working Days in a Month
+//Calculating Wages for a Month
+
 package employee_UseCases;
 
 public class EmpWageBuilderUC5 {

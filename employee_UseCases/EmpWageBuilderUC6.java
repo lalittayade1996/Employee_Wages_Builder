@@ -1,3 +1,6 @@
+//Calculating Wages till Number of Working Days or Total Working Hours per month is Reached
+// Calculate Wages till a condition of total working hours of 100 or max days os 20 is reached for a month
+
 package employee_UseCases;
 
 public class EmpWageBuilderUC6 {
