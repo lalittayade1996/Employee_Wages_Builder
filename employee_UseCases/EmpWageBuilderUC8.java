@@ -34,7 +34,7 @@ public class EmpWageBuilderUC8 {
 			System.out.println("Day#:" + totalWorkingDays + "Emp Hr: " + empHrs);
 		}
 		int totalEmpWage = totalEmpHrs * empRatePerHour;
-		System.out.println("Total Emp Wage For Company " +company+" is: "+totalEmpWage);
+		System.out.println("Total Emp Wage For Company " + company + " is: " + totalEmpWage);
 		return totalEmpWage;
 	}
 
